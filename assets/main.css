@@ -96,10 +96,12 @@ td.sponsor{white-space:nowrap; width:33%; text-align:center; vertical-align:midd
 td.sponsor img{width: 100%}
 
 /* The Table on the Program Page */
-td.date{white-space:nowrap; width:180px; text-align:left; vertical-align:top; padding:4px 16px 0px 0px;}
+td.date{white-space:nowrap; width:180px; text-align:center; vertical-align:top; font-size: 1.3em; padding:4px 16px 0px 0px;}
 td.title{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1.5em; color: #52739e; height:32px; font-family:'Roboto Slab',serif; text-shadow: 1px 1px 2px #d0d0d0; }
 td.speaker{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1.5em; color: #813c54; height:32px; font-family:'Roboto Slab',serif; text-shadow: 1px 1px 2px #d0d0d0;}
 td.abstract{padding: 4px 12px 12px 4px; font-size:1em; max-height:999999px}
+td.conf{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1.8em; color: #b8860b; height:32px; font-family:'Roboto Slab',serif; text-shadow: 1px 1px 2px #d0d0d0;}
+td.time{white-space:nowrap; width:180px; text-align:center; vertical-align:top; font-size: 1em; padding:4px 16px 0px 0px;}
 
 /* Registration and Directions iframes and Images */
 iframe.registration{display:block; margin:1em auto 2em auto; width:700px; height:1400px; border:none;}
@@ -163,9 +165,7 @@ img.center{display:block; width:67%; margin:1em auto 2em auto;}
 details > summary {
   padding: 4px;
   width: 200px;
-  background-color: #eeeeee;
   border: none;
-  box-shadow: 1px 1px 2px #bbbbbb;
   cursor: pointer;
 }
 

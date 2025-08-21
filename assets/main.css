@@ -41,6 +41,7 @@ a{color: #b8860b; text-decoration:none;}
 a.current{color: #52739e;}
 a.current:hover{color: #e82945;}
 a.affiliation{color:#505050; font-size: 0.8em;}
+a.gemlink{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1em; color: #52739e; height:32px; font-family:'Roboto Slab',serif; text-shadow: 1px 1px 2px #d0d0d0; line-height: 1.5em;}
 a:hover{color: #b2132e;}
 a:active{color: #e82945;}
 h1,h2,h3,h4{clear:left; color: #813c54; margin:1.5em 0em 1em 0em; font-family:'Roboto Slab',serif; text-shadow: 1px 1px 2px #d0d0d0;}

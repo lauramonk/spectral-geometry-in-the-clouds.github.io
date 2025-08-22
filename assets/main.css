@@ -177,3 +177,22 @@ details > p {
   margin: 0;
   box-shadow: 1px 1px 2px #bbbbbb;
 }
+
+/*Footer*/
+footer{
+    bottom: 0;
+    width: 100%;
+}
+
+footer > p {
+  font-size: 0.8em;
+  line-height: 1.2em;
+}
+
+.footer {
+    background: #fafafa;
+    height: 10px;
+    margin: auto;
+    padding:10px;
+    color:#505050;
+}
